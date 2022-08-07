@@ -4,6 +4,7 @@ import "./App.css";
 
 import Nav from "../Nav/Nav";
 import Header from "../Header/Header";
+import Footer from "../Footer/Footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       >
         <Nav />
         <Header />
+        <Footer />
       </ThemeProvider>
     </>
   );
