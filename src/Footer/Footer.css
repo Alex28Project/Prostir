@@ -1,12 +1,18 @@
-  .footer{
-    background-color: #0d6efd;
-  }
+.footer {
+  background-color: #0d6efd;
+  padding: 10px;
+}
 
-  .footer a{    
-    color:black;
-    text-decoration: none;
-  }
+.footer a {
+  color: black;
+  text-decoration: none;
+}
 
-  .footer h5{
-    color: black;
-  }
+.footer h5 {
+  color: black;
+}
+
+ .footer li{
+  list-style: none;
+  margin-left: -30px;
+}

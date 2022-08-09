@@ -3,8 +3,8 @@ import "./Header.css";
 
 export default function Header() {
   return (
-    <div>
-      <>
+    <>
+      <header>
         <div class="container-fluid">
           <div
             id="carouselExampleFade"
@@ -64,7 +64,7 @@ export default function Header() {
             </button>
           </div>
         </div>
-      </>
-    </div>
+      </header>
+    </>
   );
 }
