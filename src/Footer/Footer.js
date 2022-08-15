@@ -36,14 +36,11 @@ export default function Footer() {
                   </li>
                   <li>
                     <ImPhone />                 
-                    <a href="###">  +38(098)000-00-00</a>
+                    <span>  +38(098)000-00-00</span>
                   </li>
                 </ul>
               </div>
-              <div class="col-md-6 item text">
-                <h5>Простір</h5>
-                <p>Компанія надає послуги в сфері інформаційних технологій.</p>
-              </div>
+              
               <div class="col-sm-6 col-md-3 item">
               <h5>Соціальні мережі</h5>
               <ul>
@@ -61,7 +58,11 @@ export default function Footer() {
                 </li>
               </ul>
               </div>
-              </div>            
+              </div>
+              <div class="col-md-6 item text">
+                <h5>Простір</h5>
+                <p>Компанія надає послуги в сфері інформаційних технологій.</p>
+              </div>           
             <p class="copyright">Prostir © 2022. Всі права захищені.</p>
           </div>
         </footer>
